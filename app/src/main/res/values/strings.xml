@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EnviarParametros</string>
+    <string name="nombredepersona">nombre completo</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="descripciondelcontacto">Descripcion del contacto</string>
+    <string name="botonsiguiente">Siguiente</string>
+    <string name="datosconfirmados">Confirmar datos</string>
+    <string name="btnmodificar">MODIFICAR DATOS</string>
+    <string name="tvfecha">Fecha de nacimiento</string>
+    <string name="nombreingresado">NOMBRE</string>
+    <string name="calcelarfecha">CANCELAR</string>
+    <string name="aceptarfecha">Indique fecha nacimiento</string>
+    <string name="telefonoingresado">TELEFONO</string>
+    <string name="emailingresado">EMAIL</string>
+    <string name="descripcioningresada">DESCRIPCION</string>
+    <string name="fechaingresada">FECHA DE NACIMIENTO</string>
+
+</resources>
